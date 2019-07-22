@@ -1,0 +1,11 @@
+C:\Users\Admin\RiderProjects\ApplicationProgramingCSharp\ApplicationProgramingCSharp\bin\Debug\netcoreapp2.2\ApplicationProgramingCSharp.deps.json
+C:\Users\Admin\RiderProjects\ApplicationProgramingCSharp\ApplicationProgramingCSharp\bin\Debug\netcoreapp2.2\ApplicationProgramingCSharp.runtimeconfig.json
+C:\Users\Admin\RiderProjects\ApplicationProgramingCSharp\ApplicationProgramingCSharp\bin\Debug\netcoreapp2.2\ApplicationProgramingCSharp.runtimeconfig.dev.json
+C:\Users\Admin\RiderProjects\ApplicationProgramingCSharp\ApplicationProgramingCSharp\bin\Debug\netcoreapp2.2\ApplicationProgramingCSharp.dll
+C:\Users\Admin\RiderProjects\ApplicationProgramingCSharp\ApplicationProgramingCSharp\bin\Debug\netcoreapp2.2\ApplicationProgramingCSharp.pdb
+C:\Users\Admin\RiderProjects\ApplicationProgramingCSharp\ApplicationProgramingCSharp\obj\Debug\netcoreapp2.2\ApplicationProgramingCSharp.csprojAssemblyReference.cache
+C:\Users\Admin\RiderProjects\ApplicationProgramingCSharp\ApplicationProgramingCSharp\obj\Debug\netcoreapp2.2\ApplicationProgramingCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\ApplicationProgramingCSharp\ApplicationProgramingCSharp\obj\Debug\netcoreapp2.2\ApplicationProgramingCSharp.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\ApplicationProgramingCSharp\ApplicationProgramingCSharp\obj\Debug\netcoreapp2.2\ApplicationProgramingCSharp.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\ApplicationProgramingCSharp\ApplicationProgramingCSharp\obj\Debug\netcoreapp2.2\ApplicationProgramingCSharp.dll
+C:\Users\Admin\RiderProjects\ApplicationProgramingCSharp\ApplicationProgramingCSharp\obj\Debug\netcoreapp2.2\ApplicationProgramingCSharp.pdb
